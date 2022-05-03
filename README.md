@@ -4,13 +4,14 @@ Current subjects being uploaded, I'll likely add one every day; if/else statemen
 
 const firstName = Lane;
 const age = 18;
-const birthYear = 2037;
 
 // I want to create an if/else statement, to know if I am able to drive yet or not!
 
 if age >= 16 {
 console.log(`${firstName} is legal to drive!)
 } else {
-console.log(`${firstName} is not legal to drive!)
+console.log(`${firstName} is not legal to drive!`)
 }
+
+I will add to this if/else statement to make it more complicated as well!
 
